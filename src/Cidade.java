@@ -1,5 +1,3 @@
-package Main;
-
 // Classe que representa uma cidade
 public class Cidade {
     String alfa2;         // Código Alfa-2 do país ao qual a cidade pertence

@@ -1,5 +1,3 @@
-package Main;
-
 // Classe que representa informações sobre entradas inválidas em um ficheiro
 public class InputInvalido {
     String nomeFicheiro;         // Nome do ficheiro

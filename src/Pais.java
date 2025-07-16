@@ -1,5 +1,3 @@
-package Main;
-
 // Classe que representa um país
 class Pais {
     int id;         // Identificador único do país

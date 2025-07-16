@@ -1,5 +1,3 @@
-package Main;
-
 // Classe que representa os dados de população de um país para um determinado ano
 public class Populacao {
     int id;             // Identificador do país

@@ -1,5 +1,3 @@
-package Main;
-
 // Classe que representa o resultado de uma operação ou comando
 public class Result {
     boolean success;    // Indica se a operação foi bem-sucedida
